@@ -1,9 +1,7 @@
 BUG REPORT 
 
-
 Software:
 Where the bug was found
-
 
 Bug Description:
 A clear and concise description of what the bug is
@@ -13,21 +11,22 @@ Step-by-step instructions that allow others to reproduce the
 bug.
 
 Expected Behavior:
-[Describe what behavior is expected]
+Describe what behavior is expected
 
 Actual Behavior:
-[Describe what behavior is observed]
+Describe what behavior is observed
 
 Additional Information:
-Device: [Enter Device Name]
-Operating System: [Enter OS Version]
-Internet Connection: [Describe internet connection status]
-User Feedback: [Provide any relevant user feedback or observations]
+Device: Enter Device Name
+Operating System: Enter OS Version
+Internet Connection: Describe internet connection status
+User Feedback: Provide any relevant user feedback or observations
+
 Severity:
-[Enter Severity Level]
+Enter Severity Level
 
 Justification:
-[Explain why this bug needs to be addressed and its impact on user experience or system functionality]
+Explain why this bug needs to be addressed and its impact on user experience or system functionality
 
 
 
